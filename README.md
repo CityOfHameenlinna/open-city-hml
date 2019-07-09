@@ -1,7 +1,7 @@
 # Open City Hämeenlinna
 
 Open City Hämeenlinna is a React Native application derived from the [`open-city-skeleton` repository](https://github.com/6aika/open-city-skeleton).
-The application uses [`open-city-hml-modules` repository](https://github.com/alykkaatpalvelut/open-city-hml-modules), which contains modules that implement some specific functionality and can be installed to a derivate app.
+The application uses [`open-city-hml-modules` repository](https://github.com/CityOfHameenlinna/open-city-hml-modules), which contains modules that implement some specific functionality and can be installed to a derivate app.
 
 Open City Hämeenlinna has been developed using:
 
@@ -26,7 +26,7 @@ In [`src/config/colors.js`](../master/src/config/colors.js) change the `max, med
 More colors can also be added to the object to be used in custom components and modules.
 
 ### Modules Configuration
-To configurate open-city-hml-modules, check the documentation for each module found in the [`open-city-hml-modules` repository](https://github.com/alykkaatpalvelut/open-city-hml-modules).
+To configurate open-city-hml-modules, check the documentation for each module found in the [`open-city-hml-modules` repository](https://github.com/CityOfHameenlinna/open-city-hml-modules).
 
 ## Installation
 Pre-install requirements:
