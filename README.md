@@ -35,6 +35,6 @@ Pre-install requirements:
 - Android emulator or a physical device running Android 4.1.2 or higher
 
 Install steps:
-- Clone the repository i.e with Git using `git clone https://github.com/alykkaatpalvelut/open-city-hml.git`
+- Clone the repository i.e with Git using `git clone https://github.com/CityOfHameenlinna/open-city-hml.git`
 - Run `npm install` in the root of the project folder
 - Run the project with `react-native run-android`
