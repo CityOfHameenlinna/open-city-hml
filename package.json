@@ -8,7 +8,7 @@
 		"flow": "flow"
 	},
 	"dependencies": {
-		"LibraryModule": "git+https://github.com/alykkaatpalvelut/open-city-hml-modules.git",
+		"LibraryModule": "git+https://github.com/CityOfHameenlinna/open-city-hml-modules.git",
 		"react": "^16.7.0",
 		"react-native": "^0.57.1",
 		"react-native-elements": "^1.0.0",
